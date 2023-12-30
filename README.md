@@ -1,1 +1,5 @@
-# Moved [here](https://github.com/nomoresat/DPITunnel-android)
+# Moved [here][def]
+
+
+
+[def]: https://github.com/nomoresat/DPITunnel-android
